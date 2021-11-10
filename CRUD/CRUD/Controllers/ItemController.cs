@@ -23,8 +23,17 @@ namespace CRUD.Controllers
 
         public IActionResult Create()
         {
-
             return View();
+        }
+
+        // POST-Create
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Create(Item obj)
+        {
+            _db.Items.Add(obj);
+            _db.SaveChanges();
+            return RedirectToAction("Index");
         }
     }
 }
