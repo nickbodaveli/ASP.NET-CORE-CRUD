@@ -430,3 +430,4 @@ C:\Users\D O M I N A T O R\source\repos\CRUD\CRUD\obj\Debug\net5.0\ref\CRUD.dll
 C:\Users\D O M I N A T O R\source\repos\CRUD\CRUD\obj\Debug\net5.0\CRUD.pdb
 C:\Users\D O M I N A T O R\source\repos\CRUD\CRUD\obj\Debug\net5.0\CRUD.genruntimeconfig.cache
 C:\Users\D O M I N A T O R\source\repos\CRUD\CRUD\obj\Debug\net5.0\Razor\Views\Item\Index.cshtml.g.cs
+C:\Users\D O M I N A T O R\source\repos\CRUD\CRUD\obj\Debug\net5.0\Razor\Views\Item\Create.cshtml.g.cs
