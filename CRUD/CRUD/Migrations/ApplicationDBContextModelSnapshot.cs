@@ -29,7 +29,6 @@ namespace CRUD.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("ExpenseName")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
