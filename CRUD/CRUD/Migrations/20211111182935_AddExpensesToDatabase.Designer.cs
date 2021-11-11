@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CRUD.Migrations
 {
     [DbContext(typeof(ApplicationDBContext))]
-    [Migration("20211111180041_AddExpensesToDatabase")]
+    [Migration("20211111182935_AddExpensesToDatabase")]
     partial class AddExpensesToDatabase
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -31,6 +31,7 @@ namespace CRUD.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("ExpenseName")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
