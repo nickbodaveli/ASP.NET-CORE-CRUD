@@ -434,3 +434,4 @@ C:\Users\D O M I N A T O R\source\repos\CRUD\CRUD\obj\Debug\net5.0\Razor\Views\E
 C:\Users\D O M I N A T O R\source\repos\CRUD\CRUD\obj\Debug\net5.0\Razor\Views\Expense\Index.cshtml.g.cs
 C:\Users\D O M I N A T O R\source\repos\CRUD\CRUD\obj\Debug\net5.0\Razor\Views\Expense\Delete.cshtml.g.cs
 C:\Users\D O M I N A T O R\source\repos\CRUD\CRUD\obj\Debug\net5.0\CRUD.csproj.AssemblyReference.cache
+C:\Users\D O M I N A T O R\source\repos\CRUD\CRUD\obj\Debug\net5.0\Razor\Views\Expense\Update.cshtml.g.cs

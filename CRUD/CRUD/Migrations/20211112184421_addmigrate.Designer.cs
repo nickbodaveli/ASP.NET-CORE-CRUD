@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CRUD.Migrations
 {
     [DbContext(typeof(ApplicationDBContext))]
-    [Migration("20211111193732_Migraciebi")]
-    partial class Migraciebi
+    [Migration("20211112184421_addmigrate")]
+    partial class addmigrate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

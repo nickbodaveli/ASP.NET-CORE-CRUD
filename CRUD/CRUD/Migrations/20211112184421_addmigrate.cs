@@ -2,7 +2,7 @@
 
 namespace CRUD.Migrations
 {
-    public partial class Migraciebi : Migration
+    public partial class addmigrate : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
